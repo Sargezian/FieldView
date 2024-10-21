@@ -1,26 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { Provider } from "react-redux";
+import { store } from './redux';
+import FieldsList from "./components/FieldsList";
+import FieldMap from "./components/FieldMap";
+import FieldDataView from "./components/FieldDataView";
+import Toggle from "./components/Toggle";
+import {Stack} from "@mui/material";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <Provider store={store}>
+            <div>
+                <Stack direction="row" spacing={2} marginTop={"20px"}>
+                    <FieldsList />
+                    <FieldMap />
+                </Stack>
+                <Stack direction="row" spacing={2} marginTop={"20px"}>
+                    <FieldDataView />
+                    <Toggle />
+                </Stack>
+            </div>
+        </Provider>
+    );
 }
 
 export default App;

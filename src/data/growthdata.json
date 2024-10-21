@@ -1,0 +1,80 @@
+{
+    "fields": [
+      {
+        "id": "0ba2e0a7-01c6-4dbb-9a62-ecde75f105d6",
+        "growthData": [
+          { "coordinates": [56.1725, 9.9890], "NDVI": 0.75 },
+          { "coordinates": [56.1728, 9.9895], "NDVI": 0.68 },
+          { "coordinates": [56.1730, 9.9900], "NDVI": 0.85 },
+          { "coordinates": [56.1729, 9.9903], "NDVI": 0.52 },
+          { "coordinates": [56.1727, 9.9908], "NDVI": 0.41 },
+          { "coordinates": [56.1724, 9.9905], "NDVI": 0.77 },
+          { "coordinates": [56.1722, 9.9902], "NDVI": 0.33 },
+          { "coordinates": [56.1718, 9.9909], "NDVI": 0.20 },
+          { "coordinates": [56.1723, 9.9899], "NDVI": 0.91 },
+          { "coordinates": [56.1725, 9.9901], "NDVI": 0.65 }
+        ]
+      },
+      {
+        "id": "0f4c749f-ee78-44b4-883e-79e2e14ba516",
+        "growthData": [
+          { "coordinates": [56.2350, 10.0320], "NDVI": 0.40 },
+          { "coordinates": [56.2370, 10.0296], "NDVI": 0.60 },
+          { "coordinates": [56.2362, 10.0310], "NDVI": 0.87 },
+          { "coordinates": [56.2368, 10.0305], "NDVI": 0.72 },
+          { "coordinates": [56.2369, 10.0320], "NDVI": 0.33 },
+          { "coordinates": [56.2372, 10.0292], "NDVI": 0.28 },
+          { "coordinates": [56.2365, 10.0307], "NDVI": 0.68 },
+          { "coordinates": [56.2374, 10.0315], "NDVI": 0.51 },
+          { "coordinates": [56.2367, 10.0330], "NDVI": 0.20 },
+          { "coordinates": [56.2371, 10.0342], "NDVI": 0.75 }
+        ]
+      },
+      {
+        "id": "18ee0a86-4605-4d47-8c1a-cecdbf73ac76",
+        "growthData": [
+          { "coordinates": [55.9915, 9.7550], "NDVI": 0.65 },
+          { "coordinates": [55.9918, 9.7540], "NDVI": 0.68 },
+          { "coordinates": [55.9898, 9.7530], "NDVI": 0.75 },
+          { "coordinates": [55.9922, 9.7552], "NDVI": 0.52 },
+          { "coordinates": [55.9889, 9.7525], "NDVI": 0.80 },
+          { "coordinates": [55.9902, 9.7545], "NDVI": 0.55 },
+          { "coordinates": [55.9892, 9.7535], "NDVI": 0.70 },
+          { "coordinates": [55.9925, 9.7560], "NDVI": 0.48 },
+          { "coordinates": [55.9910, 9.7537], "NDVI": 0.62 },
+          { "coordinates": [55.9882, 9.7518], "NDVI": 0.57 }
+        ]
+      },
+      {
+        "id": "19594345-e70d-42ad-9467-0680d1d28d85",
+        "growthData": [
+          { "coordinates": [56.1451, 10.0180], "NDVI": 0.23 },
+          { "coordinates": [56.1453, 10.0195], "NDVI": 0.70 },
+          { "coordinates": [56.1449, 10.0205], "NDVI": 0.82 },
+          { "coordinates": [56.1450, 10.0220], "NDVI": 0.49 },
+          { "coordinates": [56.1452, 10.0230], "NDVI": 0.60 },
+          { "coordinates": [56.1447, 10.0240], "NDVI": 0.73 },
+          { "coordinates": [56.1443, 10.0215], "NDVI": 0.30 },
+          { "coordinates": [56.1439, 10.0235], "NDVI": 0.12 },
+          { "coordinates": [56.1444, 10.0215], "NDVI": 0.55 },
+          { "coordinates": [56.1448, 10.0192], "NDVI": 0.70 }
+        ]
+      },
+      {
+        "id": "1d102f49-848f-47a3-8a6c-41c55171a09c",
+        "growthData": [
+          { "coordinates": [56.164505, 10.000600], "NDVI": 0.65 },
+          { "coordinates": [56.163950, 10.000000], "NDVI": 0.72 },
+          { "coordinates": [56.162600, 10.004500], "NDVI": 0.81 },
+          { "coordinates": [56.164100, 10.002000], "NDVI": 0.55 },
+          { "coordinates": [56.163000, 10.003500], "NDVI": 0.67 },
+          { "coordinates": [56.162900, 10.001800], "NDVI": 0.60 },
+          { "coordinates": [56.161500, 10.005300], "NDVI": 0.77 },
+          { "coordinates": [56.163400, 10.002700], "NDVI": 0.59 },
+          { "coordinates": [56.162000, 10.004000], "NDVI": 0.62 },
+          { "coordinates": [56.161800, 10.003200], "NDVI": 0.71 }
+        ]
+      }                          
+    ]
+  }
+  
